@@ -1,0 +1,19 @@
+hashing is the process of converting a given input key(generally arbirtrarty size) into o
+output value(generally fixed size)
+
+HASH FUNCTION
+used to map data of arbirtrarty size to fixed-size values.
+
+NOTE
+Time Complexity of storing data (O(1))
+Time Complexity of Access -(insert,update,delete)
+
+
+collision happens when the hash function generates
+same hash(output) for different set of keys(inputs)
+NOTE:
+The fact that hashing maps any input (rgardless of its length) into  a fixed-length code(outpu)
+
+
+
+
